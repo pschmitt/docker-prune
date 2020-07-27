@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-AGE=${AGE:-7d}
+AGE=${AGE:-604800h}
 STICKY_LABEL=${STICKY_LABEL:-persistent_image=true}
 
 while true
